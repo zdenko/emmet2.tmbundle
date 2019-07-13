@@ -1,6 +1,6 @@
 # Emmet abbreviation expander Textmate bundle
 
-This is a simple wrapper for Emmet abbreviation expander made with Apple's Script Editor.
+A simple wrapper for [Emmet abbreviation expander](https://github.com/emmetio/expand-abbreviation) made with Apple's Script Editor.
 
 # Installation
 
