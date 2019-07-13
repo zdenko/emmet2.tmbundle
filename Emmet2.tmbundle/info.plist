@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>mqraxbihwnfvabivp@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Zdenko</string>
+	<key>description</key>
+	<string>A wrapper for Emmet abbreviation expander https://github.com/emmetio/expand-abbreviation.</string>
+	<key>name</key>
+	<string>Emmet2</string>
+	<key>uuid</key>
+	<string>2D1E5A15-7175-405D-B1DC-26BF208F53C8</string>
+</dict>
+</plist>
