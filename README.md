@@ -5,7 +5,7 @@ A simple wrapper for [Emmet abbreviation expander](https://github.com/emmetio/ex
 # Installation
 
     cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git://github.com/zdenko/emmet2.tmbundle.git Emmet2.tmbundle
+    git clone https://github.com/zdenko/emmet2.tmbundle.git Emmet2.tmbundle
 
 # License
 
